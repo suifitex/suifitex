@@ -34,6 +34,3 @@ Tenho uma forte base no desenvolvimento de aplicações web e sistemas robustos.
 
 💡 **Apaixonado por aprender e construir soluções escaláveis.**
 
----
-
-![Suifitex GitHub stats](https://github-readme-stats.vercel.app/api?username=suifitex&show_icons=true&theme=radical)
