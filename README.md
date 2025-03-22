@@ -12,7 +12,8 @@ Sou um desenvolvedor **Full Stack** com experiência em uma variedade de tecnolo
 - **Back-End:** 
   ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) 
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-
+  ![C++](https://img.shields.io/badge/-C%23-239120?style=flat&logo=cpp&logoColor=white)
+  
 - **Banco de Dados:** 
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
