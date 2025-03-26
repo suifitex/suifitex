@@ -1,6 +1,3 @@
-### Olá, sou o Daniel (suifitex) 👨‍💻
-
-Sou um desenvolvedor **Full Stack** com experiência em uma variedade de tecnologias. Tenho paixão por criar soluções completas e escaláveis, desde o front-end até o back-end, e estou sempre buscando aprender e me aperfeiçoar nas melhores práticas de desenvolvimento.
 
 ### Tecnologias e Ferramentas:
 - **Front-End:** 
@@ -30,8 +27,4 @@ Sou um desenvolvedor **Full Stack** com experiência em uma variedade de tecnolo
   ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum&logoColor=white) 
   ![Kanban](https://img.shields.io/badge/-Kanban-0079BF?style=flat&logo=trello&logoColor=white)
 
-### Sobre mim:
-Tenho uma forte base no desenvolvimento de aplicações web e sistemas robustos. Além de meu conhecimento técnico, gosto de me manter atualizado com as novas tendências de desenvolvimento e boas práticas de código. Meu foco está em resolver problemas complexos com soluções simples e eficientes.
-
-💡 **Apaixonado por aprender e construir soluções escaláveis.**
 
